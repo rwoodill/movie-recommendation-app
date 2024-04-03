@@ -1,0 +1,7 @@
+api.py
+data
+node_modules
+__pycache__
+movies_list.pkl
+similarity.pkl
+frontend/package-lock.json
