@@ -23,10 +23,7 @@ https://developer.themoviedb.org/docs/getting-started
 * Go to [TMDB](https://developer.themoviedb.org/docs/getting-started), create an account and generate an API key
 * Create a new file called "api.py" inside the folder
 * Open the api.py and create a variable called "api_key" and set your new variable equal to your api key from TMDB
-* Should be as follows:
-```
-api_key= "YOUR KEY HERE"
-```
+* Should be as follows: ```api_key= "YOUR KEY HERE" ``` where your key has been entered in place of "YOUR KEY HERE"
 * Open "main.ipynb" and run all
 * (This creates the files "movie_list.pkl" and "similarity.pkl" for your local machine)
 * Open  a terminal window and navigate to the folder you created (called "movie-recommendation-app")
