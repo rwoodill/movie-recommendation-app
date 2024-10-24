@@ -25,7 +25,7 @@ https://developer.themoviedb.org/docs/getting-started
 * Open the api.py and create a variable called "api_key" and set your new variable equal to your api key from TMDB
 * Should be as follows:
 ```
-api_key= "(YOUR KEY HERE)"
+api_key= "YOUR KEY HERE"
 ```
 * Open "main.ipynb" and run all
 * (This creates the files "movie_list.pkl" and "similarity.pkl" for your local machine)
